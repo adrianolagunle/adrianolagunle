@@ -1,0 +1,80 @@
+/*************************
+ *  your code goes here  *
+ *************************/
+
+
+.bx-type {
+    max-width: 1200px;
+    min-width: 300px;
+    margin: 0px, auto;
+    padding: 20px 20px 20px 50px;
+    background-color: #ff0;
+    background: linear-gradient(gold, #ff0);
+    margin: auto;
+}
+
+.bx-group-1 {
+    background-color: #ff0;
+    background: linear-gradient(gold, #ff0);
+}
+
+.bx-group-bx-group-2 {
+    background-color: #ff0;
+    background: linear-gradient(gold, #ff0);
+}
+
+
+.bx-row {
+    margin: 0px;
+}
+
+div.bx-group.bx-group-1 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.bx-row-subheadline-1 {
+    font-family: Arial;
+    color: darkblue;
+    font-size: 20px;
+}
+
+
+p.bx-row-headline-1 {
+    font-family: Arial;
+    font-weight: bold;
+    color: darkblue;
+    font-size: 50px;
+    margin: 0px, 0px, 0px, 0px;
+    padding: 0px;
+}
+
+p.bx-row-headline-2 {
+    font-family: Arial;
+    font-weight: bold;
+    color: darkblue;
+    font-size: 70px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.bx-row.bx-row-email {
+    margin-bottom: 5px;
+    background-color: #ff0;
+    background: linear-gradient(gold, #ff0);
+    filter: drop-shadow(10px);
+    border-color: darkgrey;
+}
+
+::placeholder {
+    text-align: center;
+}
+
+.bx-row.bx-row-submit, input[type=submit], #submit {
+    background-color: darkblue;
+    background: linear-gradient(blue, darkblue);
+   
+}
+
+
+
